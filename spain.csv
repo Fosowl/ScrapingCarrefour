@@ -1,0 +1,91 @@
+name,id,category2,subcategory,measure_unit,price,price_per_unit,sell_pack_unit,datetime,category,country
+Manzana granny smith Carrefour a granel 1 kg aprox ,VC4AECOMM-094469,Fruits,Manzanas y Peras,kg,"1,80 €","1,80 €",1,2023-06-05,Apple,Spain
+"Manzana Golden Carrefour cesta 1,5 kg",fprod1460515,Fruits,Manzanas y Peras,kg,"2,49 €","1,66 €",1,2023-06-05,Apple,Spain
+Manzana fuji Carrefour a granel 1 kg aprox,VC4AECOMM-094467,Fruits,Manzanas y Peras,kg,"2,25 €","2,25 €",1,2023-06-05,Apple,Spain
+Manzana royal gala Carrefour a granel 1 kg aprox ,VC4AECOMM-094468,Fruits,Manzanas y Peras,kg,"1,99 €","1,99 €",1,2023-06-05,Apple,Spain
+Manzana roja Carrefour 1 kg aprox,VC4AECOMM-235337,Fruits,Manzanas y Peras,kg,"1,99 €","1,99 €",1,2023-06-05,Apple,Spain
+Manzana pink lady a granel 1 kg aprox,529921851,Fruits,Manzanas y Peras,kg,"2,75 €","2,75 €",1,2023-06-05,Apple,Spain
+Manzana evelina 1 kg aprox,VC4AECOMM-490645,Fruits,Manzanas y Peras,kg,"2,59 €","2,59 €",1,2023-06-05,Apple,Spain
+Manzana kanzi a granel 1 kg aprox,625735318,Fruits,Manzanas y Peras,kg,"3,35 €","3,35 €",1,2023-06-05,Apple,Spain
+Manzana pink lady ecológica bandeja 4 ud 600 g,600709188,Fruits,Manzanas y Peras,ud,"3,69 €","0,92 €",1,2023-06-05,Apple,Spain
+Manzana reineta verde a granel 1 Kg aprox,553703190,Fruits,Manzanas y Peras,kg,"2,55 €","2,55 €",1,2023-06-05,Apple,Spain
+Manzana roja ecológica bandeja 4 ud 750 g,589705752,Fruits,Manzanas y Peras,kg,"3,05 €","4,07 €",1,2023-06-05,Apple,Spain
+Manzana kanzi selección Carol bandeja 4 ud 1 Kg aprox,852100344,Fruits,Manzanas y Peras,kg,"3,99 €","3,99 €",1,2023-06-05,Apple,Spain
+Manzana evelina bandeja 4 unidades 900 g,prod760496,Fruits,Manzanas y Peras,ud,"1,99 €","1,99 €",1,2023-06-05,Apple,Spain
+Manzana golden Carrefour 1 kg aprox,VC4AECOMM-235331,Fruits,Manzanas y Peras,kg,"1,89 €","1,89 €",1,2023-06-05,Apple,Spain
+"Manzana roja Carrefour cesta 1,5 kg",fprod1460518,Fruits,Manzanas y Peras,kg,"2,89 €","1,93 €",1,2023-06-05,Apple,Spain
+Manzana golden ecológica bandeja 4 ud 750 g,589705758,Fruits,Manzanas y Peras,kg,"3,05 €","4,07 €",1,2023-06-05,Apple,Spain
+Pechuga de pollo en filetes Carrefour sin gluten y sin lactosa450 g aprox,VC4AECOMM-377487,Butcher,Aves y Pollo,kg,"3,58 €","7,95 €",1,2023-06-05,Chicken Breast,Spain
+Pechuga de pollo certificado en filetes Carrefour 500 g aprox,791562919,Butcher,Aves y Pollo,kg,"4,49 €","8,99 €",1,2023-06-05,Chicken Breast,Spain
+Pechuga de pollo fileteada marinada a las finas hierbas Coren 400 g aprox,790114293,Butcher,Aves y Pollo,kg,"3,04 €","7,60 €",1,2023-06-05,Chicken Breast,Spain
+Pechuga de pollo certificado entera Carrefour 400 g aprox,prod1020232,Butcher,Aves y Pollo,kg,"3,54 €","8,85 €",1,2023-06-05,Chicken Breast,Spain
+Pechuga de pollo entera Coren 450 g aprox,521032546,Butcher,Aves y Pollo,kg,"3,22 €","7,15 €",1,2023-06-05,Chicken Breast,Spain
+Pechuga de Pollo Ecológica Carrefour Bio 500 g aprox,fprod1310075,Butcher,Aves y Pollo,kg,"12,39 €","24,79 €",1,2023-06-05,Chicken Breast,Spain
+Pechuga de Pollo Fileteada Ecológica Carrefour Bio 550 g aprox,fprod1310074,Butcher,Aves y Pollo,kg,"14,18 €","25,79 €",1,2023-06-05,Chicken Breast,Spain
+"Pechuga de pollo Carrefour 1,2 kg aprox",827513087,Butcher,Aves y Pollo,kg,"6,95 €","5,79 €",1,2023-06-05,Chicken Breast,Spain
+Pechuga de Pollo Marinada al Ajillo en Filetes Carrefour 500 g aprox,VC4AECOMM-630184,Butcher,Otras carnes,kg,"3,77 €","7,55 €",1,2023-06-05,Chicken Breast,Spain
+Salmón 3 kg aprox,531731258,Fishmonger,Pescado Fresco,kg,"35,85 €","11,95 €",1,2023-06-05,Salmon,Spain
+Salmón en rodaja Calidad y Origen Carrefour 300 g aprox,prod231114,Fishmonger,Pescado Fresco,kg,"5,70 €","18,99 €",1,2023-06-05,Salmon,Spain
+Salmón en fllete Calidad y Origen Carrefour 400 g aprox,prod231112,Fishmonger,Pescado Fresco,kg,"8,76 €","21,90 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado 100 g.,fprod1460414,Fishmonger,Ahumados y Huevas,kg,"3,59 €","35,90 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado noruego Extra Carrefour 100 g.,682701980,Fishmonger,Ahumados y Huevas,kg,"3,89 €","38,90 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado noruego Extra Carrefour 200 g.,684504179,Fishmonger,Ahumados y Huevas,kg,"7,59 €","37,95 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado noruego Extra Carrefour pack de 2 unidades de 180 g.,fprod1360268,Fishmonger,Ahumados y Huevas,kg,"12,06 €","33,50 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado noruego Royal 90 g.,521007429,Fishmonger,Ahumados y Huevas,kg,"6,89 €","76,56 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado noruego marinado Carrefour Extra 100 g.,521016506,Fishmonger,Ahumados y Huevas,kg,"4,39 €","43,90 €",1,2023-06-05,Salmon,Spain
+Solomillo de salmón ahumado Carrefour Selección 150 g.,fprod1180228,Fishmonger,Ahumados y Huevas,kg,"8,85 €",59 €,1,2023-06-05,Salmon,Spain
+Salmón con aceite de oliva Carrefour 125 g.,526510925,Fishmonger,Ahumados y Huevas,kg,"4,49 €","35,92 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado noruego Royal pack de 2 unidades de 80 g.,prod300472,Fishmonger,Ahumados y Huevas,kg,"11,49 €","71,81 €",1,2023-06-05,Salmon,Spain
+Salmón ahumado con alga nori Skandia sin gluten 80 g.,VC4AECOMM-127787,Fishmonger,Ahumados y Huevas,kg,"6,45 €","80,62 €",1,2023-06-05,Salmon,Spain
+Solomillos de salmón ahumado noruego Royal pack de 2 unidades de 50 g.,521010001,Fishmonger,Ahumados y Huevas,kg,"8,15 €","81,50 €",1,2023-06-05,Salmon,Spain
+Tartar de salmón ahumado Skandia sin gluten 140 g.,VC4AECOMM-127727,Fishmonger,Ahumados y Huevas,kg,"9,35 €","66,79 €",1,2023-06-05,Salmon,Spain
+Lechuga romana 1 ud,521034097,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,20 €","1,60 €",1,2023-06-05,Lettuce,Spain
+Lechuga batavia verde 1 ud,521009780,Vegetables,Ensaladas y Verduras Preparadas,ud,"1,35 €","1,35 €",1,2023-06-05,Lettuce,Spain
+Lechugas surtido 1 ud,prod731103,Vegetables,Ensaladas y Verduras Preparadas,ud,"1,40 €","1,40 €",1,2023-06-05,Lettuce,Spain
+Lechuga iceberg Carrefour 1 ud,fprod1190510,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,05 €","1,91 €",1,2023-06-05,Lettuce,Spain
+Lechuga Iceberg Carrefour El Mercado 250 g,VC4AECOMM-478340,Vegetables,Ensaladas y Verduras Preparadas,kg,"0,83 €","3,32 €",1,2023-06-05,Lettuce,Spain
+Corazón de lechuga romana 650 g,521032315,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,58 €","2,43 €",1,2023-06-05,Lettuce,Spain
+Lechuga hoja de roble roja Verduras Curro 1 ud,521032295,Vegetables,Ensaladas y Verduras Preparadas,ud,"1,30 €","1,30 €",1,2023-06-05,Lettuce,Spain
+Lechuga trocadero Carrefour 150 g,521032345,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,59 €","10,60 €",1,2023-06-05,Lettuce,Spain
+Tomate natural rallado Carrefour 230 g,VC4AECOMM-186169,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,15 €",5 €,1,2023-06-05,Tomato,Spain
+Tomate natural rallado con Aceite de Oliva Virgen Surinver 230 g,prod790053,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,39 €","6,04 €",1,2023-06-05,Tomato,Spain
+Tomate ensalada 1 kg aprox,530067024,Vegetables,Tomates y Pepinos,kg,"2,09 €","2,09 €",1,2023-06-05,Tomato,Spain
+Tomate rama Carrefour 1 kg aprox,530913262,Vegetables,Tomates y Pepinos,kg,"2,59 €","2,59 €",1,2023-06-05,Tomato,Spain
+Tomate cherry cocktail romántico Carrefour 300 g,VC4AECOMM-369248,Vegetables,Tomates y Pepinos,kg,"2,39 €","7,97 €",1,2023-06-05,Tomato,Spain
+Tomate rosa Carrefour 500 g aprox,VC4AECOMM-646389,Vegetables,Tomates y Pepinos,kg,"1,67 €","3,35 €",1,2023-06-05,Tomato,Spain
+Tomate azul a granel 500 g aprox,prod620041,Vegetables,Tomates y Pepinos,kg,"1,89 €","3,79 €",1,2023-06-05,Tomato,Spain
+Tomate kumato a granel 1 Kg aprox,683401804,Vegetables,Tomates y Pepinos,kg,"2,39 €","2,39 €",1,2023-06-05,Tomato,Spain
+Tomate rama ecológico Carrefour Bio 500 g,600709258,Vegetables,Tomates y Pepinos,kg,3 €,6 €,1,2023-06-05,Tomato,Spain
+Tomate corazón de buey Carrefour a granel 1 Kg aprox.,prod1090034,Vegetables,Tomates y Pepinos,kg,"3,79 €","3,79 €",1,2023-06-05,Tomato,Spain
+Tomate Raff Carrefour 500 g,VC4AECOMM-646325,Vegetables,Tomates y Pepinos,kg,"2,15 €","4,30 €",1,2023-06-05,Tomato,Spain
+Tomate pera San Marzano 1 kg aprox,VC4AECOMM-880501,Vegetables,Tomates y Pepinos,kg,"2,85 €","2,85 €",1,2023-06-05,Tomato,Spain
+Tomate cherokee 500 g aprox,VC4AECOMM-477141,Vegetables,Tomates y Pepinos,kg,"1,94 €","3,89 €",1,2023-06-05,Tomato,Spain
+Tomate pera Carrefour 1 kg aprox,VC4AECOMM-646403,Vegetables,Tomates y Pepinos,kg,"1,89 €","1,89 €",1,2023-06-05,Tomato,Spain
+Tomate cherry Carrefour El Mercado 500 g,VC4AECOMM-646380,Vegetables,Tomates y Pepinos,kg,"1,80 €","3,60 €",1,2023-06-05,Tomato,Spain
+Tomate cherry mini-kumato 250 g,571901559,Vegetables,Tomates y Pepinos,kg,"1,15 €","4,60 €",1,2023-06-05,Tomato,Spain
+Tomate raff Carrefour 1 kg aprox,VC4AECOMM-646394,Vegetables,Tomates y Pepinos,kg,"3,49 €","3,49 €",1,2023-06-05,Tomato,Spain
+Tomate Cherry Sabores Carrefour 500 gr,VC4AECOMM-729693,Vegetables,Tomates y Pepinos,kg,"2,75 €","5,50 €",1,2023-06-05,Tomato,Spain
+Tomate monterosa 1 kg aprox,prod460487,Vegetables,Tomates y Pepinos,kg,"3,99 €","3,99 €",1,2023-06-05,Tomato,Spain
+Tomate cherry pera ecológico Carrefour Bio 250 g,VC4AECOMM-646316,Vegetables,Tomates y Pepinos,kg,"1,88 €","7,52 €",1,2023-06-05,Tomato,Spain
+Tomate pera rama Carrefour 500 g,prod1090039,Vegetables,Tomates y Pepinos,kg,"2,40 €","4,80 €",1,2023-06-05,Tomato,Spain
+Tomate mitad deshidratado Trevijano 70 g,prod68358,Vegetables,Hierbas Aromáticas y especias,kg,"3,19 €","45,57 €",1,2023-06-05,Tomato,Spain
+"Plátano Carrefour 1,2  kg aprox",VC4AECOMM-779025,Fruits,Plátanos y Bananas,kg,"2,22 €","1,85 €",1,2023-06-05,Banana,Spain
+"Plátano ecológico Carrefour Bio 1,2 kg aprox",fprod1320276,Fruits,Plátanos y Bananas,kg,"3,59 €","2,99 €",1,2023-06-05,Banana,Spain
+Plátano de freir a granel 1 Kg aprox,547901617,Fruits,Plátanos y Bananas,kg,"2,79 €","2,79 €",1,2023-06-05,Banana,Spain
+Plátano de Canarias bandeja 600 g,prod73608,Fruits,Plátanos y Bananas,kg,"2,19 €","3,65 €",1,2023-06-05,Banana,Spain
+Zanahoria Círculo de Calidad 500 g aprox,fprod1420336,Vegetables,Hortalizas,kg,"0,89 €","1,78 €",1,2023-06-05,Carrot,Spain
+Zanahoria  manojo de 750 g,521031703,Vegetables,Hortalizas,kg,"2,09 €","2,79 €",1,2023-06-05,Carrot,Spain
+Zanahoria ecológica Carrefour Bio 750 g,prod1070419,Vegetables,Hortalizas,kg,"2,19 €","2,92 €",1,2023-06-05,Carrot,Spain
+Zanahoria Ecológica Carrefour Bio 500 g aprox,VC4AECOMM-636049,Vegetables,Hortalizas,kg,"1,49 €","2,99 €",1,2023-06-05,Carrot,Spain
+Zanahoria Carrefour 1 kg,fprod1410012,Vegetables,Hortalizas,kg,"1,15 €","1,15 €",1,2023-06-05,Carrot,Spain
+Palitos zanahoria vaso 165 g,VC4AECOMM-087535,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,85 €","11,21 €",1,2023-06-05,Carrot,Spain
+"Verduras para micro brócoli, zanahoria y coliflor Florette 275 g",823414582,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,55 €","5,64 €",1,2023-06-05,Carrot,Spain
+Zanahoria rallada Carrefour 150 g,529916711,Vegetables,Ensaladas y Verduras Preparadas,kg,"0,82 €","5,47 €",1,2023-06-05,Carrot,Spain
+"Verduras para micro brócoli, zanahoria y puerro Florette 300 g",prod160390,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,85 €","6,17 €",1,2023-06-05,Carrot,Spain
+Zanahoria Círculo de Calidad 125 g,fprod1190595,Vegetables,Ensaladas y Verduras Preparadas,kg,"1,19 €","9,52 €",1,2023-06-05,Carrot,Spain
+Queso azul de mezcla madurado Valdeón De Nuestra Tierra 500 g aprox,VC4AECOMM-671029,Delicatessen and Cut Cheeses,Quesos Nacionales,kg,"11,40 €","22,80 €",1,2023-06-05,Cheese,Spain
+Queso azul de mezcla madurado Valdeón De Nuestra Tierra 500 g aprox,VC4AECOMM-671029,Delicatessen and Cut Cheeses,Queso Denominación Origen,kg,"11,40 €","22,80 €",1,2023-06-05,Cheese,Spain
+Queso havarti en lonchas Arla 150 g.,522714728,Delicatessen and Cut Cheeses,Quesos Internacionales,kg,"3,09 €","20,60 €",1,2023-06-05,Cheese,Spain
+Queso parmesano reggiano Parmareggio 150 g.,VC4AECOMM-129593,Delicatessen and Cut Cheeses,Quesos Internacionales,kg,"5,35 €","35,67 €",1,2023-06-05,Cheese,Spain
+Queso parmesano Parmareggio 200 g.,VC4AECOMM-688407,Delicatessen and Cut Cheeses,Quesos Internacionales,kg,"7,45 €","37,25 €",1,2023-06-05,Cheese,Spain
+Queso grana padano en laminas D.O.P. Hispano Italiana Parmareggio 100 g.,VC4AECOMM-688471,Delicatessen and Cut Cheeses,Quesos Internacionales,kg,"4,35 €","43,50 €",1,2023-06-05,Cheese,Spain

@@ -1,0 +1,883 @@
+index,name,price,price_per_kg,category
+0,Poulet fermier blanc Label Rouge FERMIERS DE LOUE,"9,75",6.5,chicken
+1,Filets de chicken CARREFOUR,"9,25",10.89,chicken
+2,Poulet jaune d'Auvergne Label Rouge FILIERE QUALITE CARREFOUR,"9,66",6.9,chicken
+3,Filets de chicken blanc CARREFOUR CLASSIC',"7,67",15.35,chicken
+4,Poulet blanc d'Auvergne Label Rouge FILIERE QUALITE CARREFOUR,"9,66",6.9,chicken
+5,Pintade fermière Albret Label Rouge CARREFOUR EXTRA,"16,45",11.75,chicken
+6,Filets de chicken blanc CARREFOUR CLASSIC',"13,29",15.64,chicken
+7,Unknown,"4,66",3.59,chicken
+8,FRANCE,"9,99",9.99,chicken
+9,FRANCE,"5,60",5.6,chicken
+10,ORIGINE C.E.E.,"6,20",12.4,chicken
+11,BELGIQUE,"11,50",11.5,chicken
+12,UNION EUROPEENNE,"6,35",12.7,chicken
+13,Poulet jaune Label Rouge LA NOUVELLE AGRICULTURE,"17,00",12.15,chicken
+14,Cuisses de chicken blanc LA NOUVELLE AGRICULTURE,"3,44",7.65,chicken
+15,Poulet blanc Label Rouge LA NOUVELLE AGRICULTURE,"17,00",12.15,chicken
+16,Filets de chicken extra tendres DOUCE FRANCE,"10,15",14.1,chicken
+17,Cuisse de chicken blanc CARREFOUR,"12,65",4.22,chicken
+18,Filet de chicken jaune fermier LR Reflets de France,"7,58",25.29,chicken
+19,Unknown,"19,99",10.0,chicken
+20,Unknown,"19,99",10.0,chicken
+21,Pilons de chicken jaune fermier CARREFOUR BIO,"6,14",12.29,chicken
+22,Unknown,"4,69",4.69,chicken
+23,Poulet jaune bio REGHALAL,"16,74",11.55,chicken
+24,Pilon de Poulet jaune VOLAILLE FRANCAISE,"5,90",5.9,chicken
+25,Unknown,"8,85",17.7,chicken
+26,Poulet REGHALAL,"8,32",5.55,chicken
+27,Filet de chicken en aiguillette CARREFOUR CLASSIC',"5,49",18.3,chicken
+0,Poulet fermier blanc Label Rouge FERMIERS DE LOUE,"9,75",6.5,chicken
+1,Filets de chicken CARREFOUR,"9,25",10.89,chicken
+2,Poulet jaune d'Auvergne Label Rouge FILIERE QUALITE CARREFOUR,"9,66",6.9,chicken
+3,Filets de chicken blanc CARREFOUR CLASSIC',"7,67",15.35,chicken
+4,Poulet blanc d'Auvergne Label Rouge FILIERE QUALITE CARREFOUR,"9,66",6.9,chicken
+5,Pintade fermière Albret Label Rouge CARREFOUR EXTRA,"16,45",11.75,chicken
+6,Filets de chicken blanc CARREFOUR CLASSIC',"13,29",15.64,chicken
+7,Unknown,"4,66",3.59,chicken
+8,FRANCE,"9,99",9.99,chicken
+9,FRANCE,"5,60",5.6,chicken
+10,ORIGINE C.E.E.,"6,20",12.4,chicken
+11,BELGIQUE,"11,50",11.5,chicken
+12,UNION EUROPEENNE,"6,35",12.7,chicken
+13,Poulet jaune Label Rouge LA NOUVELLE AGRICULTURE,"17,00",12.15,chicken
+14,Cuisses de chicken blanc LA NOUVELLE AGRICULTURE,"3,44",7.65,chicken
+15,Poulet blanc Label Rouge LA NOUVELLE AGRICULTURE,"17,00",12.15,chicken
+16,Filets de chicken extra tendres DOUCE FRANCE,"10,15",14.1,chicken
+17,Cuisse de chicken blanc CARREFOUR,"12,65",4.22,chicken
+18,Filet de chicken jaune fermier LR Reflets de France,"7,58",25.29,chicken
+19,Unknown,"19,99",10.0,chicken
+20,Unknown,"19,99",10.0,chicken
+21,Pilons de chicken jaune fermier CARREFOUR BIO,"6,14",12.29,chicken
+22,Unknown,"4,69",4.69,chicken
+23,Poulet jaune bio REGHALAL,"16,74",11.55,chicken
+24,Pilon de Poulet jaune VOLAILLE FRANCAISE,"5,90",5.9,chicken
+25,Unknown,"8,85",17.7,chicken
+26,Poulet REGHALAL,"8,32",5.55,chicken
+27,Filet de chicken en aiguillette CARREFOUR CLASSIC',"5,49",18.3,chicken
+0,Aiguillette de chicken jaune VOLAILLE FRANCAISE,"12,75",12.75,chicken
+1,Pilons de chicken blanc VOLAILLE FRANCAISE,"11,30",5.65,chicken
+2,Filet de chicken blanc VOLAILLE FRANCAISE,"15,52",10.35,chicken
+3,FRANCE,"12,40",4.13,chicken
+4,Filet de chicken jaune VOLAILLE FRANCAISE,"11,90",11.9,chicken
+5,Filet de chicken jaune VOLAILLE FRANCAISE,"16,65",11.1,chicken
+6,Cuisses de chicken jaune avec partie de dos VOLAILLE FRANCAISE,"10,50",5.25,chicken
+7,Viande de Volaille: ailerons de dinde VOLAILLE FRANCAISE,"7,47",2.99,chicken
+8,Haut de cuisse de chicken blanc VOLAILLE FRANCAISE,"5,20",5.2,chicken
+9,Poulet blanc REGHALAL,"15,90",5.39,chicken
+10,Pilon de chicken blanc VOLAILLE FRANCAISE,"14,60",4.87,chicken
+11,Unknown,"9,90",19.8,chicken
+12,Poulet blanc REGHALAL,"11,79",4.29,chicken
+13,Poulet jaune REGHALAL,"15,63",5.39,chicken
+14,Aiguillette de chicken blanc VOLAILLE FRANCAISE,"11,50",11.5,chicken
+15,Cuisses de chicken jaune fermier Label Rouge CARREFOUR,"4,45",9.89,chicken
+16,Poulet fermier jaune ROYAL BERNARD,"8,17",5.45,chicken
+17,Filets de chicken jaune fermier CARREFOUR BIO,"8,69",28.99,chicken
+18,Poulet prêt à cuire Halal ARABI,"7,78",5.19,chicken
+19,Poule PAC VOLAILLE DU MESNIL,"12,10",6.05,chicken
+20,Filet de chicken jaune POULET D ICI,"3,39",13.04,chicken
+21,Cuisse de chicken LA NOUVELLE AGRICULT,"7,17",13.05,chicken
+22,Unknown,"8,90",4.45,chicken
+23,Coquelet CARREFOUR,"5,39",8.99,chicken
+24,Unknown,"4,45",4.69,chicken
+25,Cuisse de chicken jaune CARREFFOUR,"12,65",4.22,chicken
+26,Poule fermière LOUE,"7,68",6.65,chicken
+27,Coq prêt à cuisiner AUTOUR DE LISE,"16,28",5.65,chicken
+28,Unknown,"16,78",11.99,chicken
+29,Poule AUTOUR DE LISE,"8,80",5.09,chicken
+0,Coquelet jaune ST SEVER,"7,07",11.79,chicken
+1,Poule LIONOR,"3,79",3.45,chicken
+2,Filet de chicken blanc VOLAILLE FRANCAISE,"10,50",10.5,chicken
+3,Emincés de chicken au curry PERE DODU,"4,69",23.45,chicken
+4,Aiguillettes de chicken panées préfrites ALDELIS,"4,49",11.22,chicken
+5,Unknown,"4,62",19.25,chicken
+6,Viande de Volaille: Pilons de chicken marinés Far West ATELIER DE GUSTAVE,"7,73",10.75,chicken
+7,Poulet fermier blanc Label Rouge CARREFOUR,"12,62",7.89,chicken
+8,Poulet cuit fumé CARREFOUR ORIGINAL,"8,46",6.05,chicken
+9,Cuisse de chicken bio fermier jaune CARREFOUR BIO,"5,77",11.55,chicken
+10,Cuisses de chicken fermier Bio CARREFOUR BIO,"6,93",11.55,chicken
+11,Filet de chicken fermier jaune LR ST SEVER,"8,07",18.57,chicken
+12,Cuisses de chicken LE GAULOIS,"7,29",4.86,chicken
+13,Cuisse de chicken fermier jaune LR ST SEVER,"5,23",8.79,chicken
+14,Filet de chicken blanc LES VOLAILLES DE NOS REGIONS,"8,15",13.58,chicken
+15,Filets de chicken rôtis LE GAULOIS,"6,14",22.75,chicken
+16,Emincé filet de chicken au barbecue LE GAULOIS,"4,69",26.06,chicken
+17,FRANCE,"16,02",8.9,chicken
+18,Poulet fermier Jaune PAC Label Rouge LE JANZE,"12,92",8.85,chicken
+19,Poulet fermier jaune PAC Label Rouge ST SEVER,"19,91",11.35,chicken
+20,Poulet fermier blanc FERMIER DE NORMANDIE,"9,10",6.5,chicken
+21,Haut de cuisse de chicken jaune VOLAILLE FRANCAISE,"5,50",5.5,chicken
+22,Poulet fermier jaune FERMIER DE NORMANDIE,"9,10",6.5,chicken
+23,Cuisses de chicken blanc avec partie de dos VOLAILLE FRANCAISE,"9,25",4.62,chicken
+24,Unknown,"9,50",19.0,chicken
+25,Filets de chicken blanc LES ELEVEURS CHAMPAGNE,"7,30",10.14,chicken
+26,UNION EUROPEENNE,"7,55",12.58,chicken
+27,Escalope de chicken ail et persil ALDELIS,"4,95",15.71,chicken
+28,Haché de chicken crispy corn flakes ALDELIS,"3,15",13.12,chicken
+29,Emincés de chicken CARREFOUR CLASSIC',"7,45",14.9,chicken
+0,FRANCE,"13,15",4.38,chicken
+1,Cuisses de chicken jaune fermier LR Reflets de France,"5,57",11.15,chicken
+2,BELGIQUE,"5,05",5.05,chicken
+3,Emincés de chicken façon Gyros SIMPL,"4,25",10.62,chicken
+4,Filets de chicken jaune CARREFOUR CLASSIC',"13,29",15.64,chicken
+5,Escalope de chicken DOUCE FRANCE,"4,15",15.99,chicken
+6,Cuisses de chicken blanc CARREFOUR CLASSIC',"7,49",5.17,chicken
+7,Poule REGHALAL,"5,16",4.39,chicken
+8,Unknown,"6,25",4.46,chicken
+9,Escalopes de chicken blanc fermier CARREFOUR BIO,"8,57",34.29,chicken
+10,Hauts de cuisse chicken blanc fermier CARREFOUR BIO,"4,19",11.99,chicken
+11,Unknown,"4,69",4.69,chicken
+12,Cuisses de chicken blanc CARREFOUR CLASSIC',"9,84",6.15,chicken
+13,Filets de chicken jaune CARREFOUR CLASSIC',"7,67",15.35,chicken
+14,Filets de chicken blanc SIMPL,"6,69",11.15,chicken
+15,Unknown,"5,19",5.19,chicken
+16,Poulet fermier blanc REGHALAL,"11,34",8.29,chicken
+17,Cuisses de chicken Bio LOUE,"7,89",14.35,chicken
+18,Cuisses de chicken rôti LE GAULOIS,"5,60",14.75,chicken
+19,Escalopes de chicken fines SIMPL,"12,15",12.15,chicken
+20,Médaillons de chicken à la basquaise SIMPL,"6,19",12.38,chicken
+21,Médaillons de chicken marinés SIMPL,"6,19",12.38,chicken
+22,Pilon de chicken NOBRAND,"3,59",3.92,chicken
+23,FRANCE,"6,50",6.5,chicken
+24,Filets de chicken LA NOUVELLE AGRICULTURE,"4,88",17.45,chicken
+25,NOUVEAUTÉ,"6,19",6.19,chicken
+26,Cuisses de chicken à la Provençale CARREFOUR,"3,59",7.18,chicken
+0,Cuisses de chicken rôties CARREFOUR ORIGINAL,"5,40",12.29,chicken
+1,Cuisses de chicken blanc Label Rouge FERMIERS DE LOUE,"11,29",12.54,chicken
+2,Paupiettes de chicken SIMPL,"10,15",13.01,chicken
+3,Poulet fermier jaune PAC Label Rouge,"12,45",8.59,chicken
+4,FRANCE,"11,90",11.9,chicken
+5,Hauts de cuisses de chicken jaune CARREFOUR CLASSIC',"6,42",6.49,chicken
+6,Filet de chicken LA NOUVELLE AGRICULTURE,"7,82",27.95,chicken
+7,Escalope de chicken bio blanc fermier CARREFOUR BIO,"8,57",34.29,chicken
+8,Hauts de cuisses de chicken blanc CARREFOUR CLASSIC',"6,42",6.49,chicken
+9,Cuisse de chicken jaune avec portion de dos SIMPL,"6,28",4.49,chicken
+10,Filet de chicken jaune ROYAL,"11,65",12.95,chicken
+11,Aiguillette de chicken jaune POULET D ICI,"4,00",16.67,chicken
+12,Filet de chicken blanc JANZE,"5,89",22.09,chicken
+13,Découpe de chicken jaune PLEIN CHAMP,"6,36",9.79,chicken
+14,Filets de chicken jaune SIMPL,"6,69",11.15,chicken
+15,Cuisses de chicken jaune avec portion de dos SIMPL,"4,49",4.49,chicken
+16,Unknown,"6,73",4.49,chicken
+17,Filets de chicken jaune CARREFOUR CLASSIC',"15,19",15.19,chicken
+18,Poulet fermier jaune Label rouge REFLETS DE FRANCE,"13,12",8.75,chicken
+19,Poulet blanc bio NATURE DE FRANCE,"21,31",13.75,chicken
+20,Pilons de chicken jaune LA NOUVELLE AGRICULTURE,"3,60",9.49,chicken
+21,Hauts de cuisses chicken jaune LA NOUVELLE AGRICULTURE,"4,32",8.65,chicken
+22,NOUVEAUTÉ,"11,99",11.99,chicken
+23,NOUVEAUTÉ,"4,28",7.65,chicken
+24,Aiguillette de chicken jaune REGHALAL,"4,42",15.79,chicken
+25,FRANCE,"12,50",4.17,chicken
+26,Escalope de chicken Halal REGHALAL,"12,63",13.59,chicken
+0,FRANCE,"12,85",4.28,chicken
+1,FRANCE,"29,12",11.65,chicken
+2,FRANCE,"14,90",4.97,chicken
+3,Unknown,"7,63",5.09,chicken
+4,Escalope de chicken jaune Halal REGHALAL,"12,63",13.59,chicken
+5,Hauts cuisse de chicken blanc DOUCE FRANCE,"8,99",5.99,chicken
+6,FRANCE,"6,79",4.53,chicken
+7,Cuisses de chicken blanc avec portion de dos SIMPL,"4,49",4.49,chicken
+8,Filets de chicken blanc CARREFOUR CLASSIC',"15,19",15.19,chicken
+9,Aiguillettes de chicken blanc fermier CARREFOUR BIO,"9,52",36.65,chicken
+10,Pilons de chicken blanc CARREFOUR CLASSIC',"3,87",6.45,chicken
+11,Cuisses de chicken Bio jaune fermier CARREFOUR BIO,"5,77",11.55,chicken
+12,Aiguillette de chicken REGHALAL,"4,40",15.85,chicken
+13,Poulet jaune prêt à cuire CARREFOUR CLASSIC',"7,13",5.49,chicken
+14,Poulet jaune Label Rouge GERS,"9,22",6.15,chicken
+15,Unknown,"4,69",4.69,chicken
+16,Escalope de chicken REGHALAL,"2,80",9.33,chicken
+17,Filets de chicken CARREFOUR,"10,89",10.89,chicken
+18,Hauts de cuisse chicken fermier CARREFOUR BIO,"4,19",11.99,chicken
+19,Unknown,"5,19",5.19,chicken
+20,Pilon de chicken SIMPL,"4,15",5.19,chicken
+21,Pilon de chicken SIMPL,"5,19",5.19,chicken
+22,Unknown,"6,55",8.69,chicken
+23,Filets de chicken fermier blanc Bio CARREFOUR BIO,"11,59",28.99,chicken
+24,Cuisses de chicken fermier jaune Label Rouge FERMIERS DE LOUE,"5,74",11.49,chicken
+0,Poulet fermier blanc PAC Label Rouge,"13,63",9.09,chicken
+1,Filets de chicken jaune CARREFOUR CLASSIC',"4,64",15.49,chicken
+2,Filets de chicken bio fermier jaune CARREFOUR BIO,"8,69",28.99,chicken
+3,Unknown,"12,59",27.99,chicken
+4,Pilons de chicken jaune POULET D ICI,"2,00",5.26,chicken
+5,Cuisses de chicken jaune POULET D ICI,"2,00",5.0,chicken
+6,Poulet fermier blanc PAC Label Rouge,"12,45",8.59,chicken
+7,Poulet PAC VOLAILLE DU MESNIL,"15,52",9.7,chicken
+8,Poulet nourri aux graines de lin MAITRE COQ,"9,75",6.96,chicken
+9,Filets de chicken LE PETIT MARCHE DE LOUE,"6,16",20.55,chicken
+10,Filets de chicken Bio LOUE,"12,20",40.69,chicken
+11,Fricassée de chicken jaune Label Rouge SUD OUEST,"5,99",7.49,chicken
+12,Poulet jaune REGHALAL,"8,32",5.55,chicken
+13,Poulet fermier blanc Label Rouge LICQUES VOLAILLES,"13,42",8.95,chicken
+14,Poulet fermier blanc PAC Label Rouge LE JANZE,"12,88",8.85,chicken
+15,NOUVEAUTÉ,"4,79",12.61,chicken
+16,Filets de chicken fermier Label Rouge LOUE,"7,19",28.79,chicken
+17,Cuisses de chicken fermier blanc Label Rouge LOUE,"5,74",11.49,chicken
+18,Cuisses de chicken jaune Label Rouge LOUE,"11,29",12.54,chicken
+19,Poulet fermier jaune Label Rouge CARREFOUR,"12,62",7.89,chicken
+20,Filets de chicken jaune LA NOUVELLE AGRICULTURE,"9,54",17.05,chicken
+21,Oeufs de caille LA CAILLE DES VOSGES,"2,30",11.0,chicken
+22,Poulet fermier blanc Bio élevé en plein air CARREFOUR BIO,"22,78",11.99,chicken
+23,Unknown,"8,70",5.8,chicken
+24,FRANCE,"5,90",5.9,chicken
+25,Aiguillette de chicken LA NOUVELLE AGRICULT,"3,37",18.75,chicken
+26,Poulet jaune bio NATURE DE FRANCE,"22,68",13.75,chicken
+27,Découpe de chicken blanc MAITRE COQ,"6,90",8.62,chicken
+28,Unknown,"10,89",10.89,chicken
+29,Découpe de chicken jaune MAITRE COQ,"6,90",8.62,chicken
+0,Découpes de chicken recette paprika MAITRE COQ,"6,90",8.62,chicken
+1,Morceaux de chicken jaune LE GAULOIS,"6,19",8.25,chicken
+2,Filets de chicken jaune LE GAULOIS,"4,99",16.63,chicken
+3,Filets de chicken blanc LE GAULOIS,"4,99",16.63,chicken
+4,Aiguillettes de chicken jaune LE GAULOIS,"3,99",19.0,chicken
+5,Aiguillettes de chicken blanc LE GAULOIS,"3,99",19.0,chicken
+6,Filets de chicken jaune fermier Label Rouge FILIERE QUALITE CARREFOUR,"6,93",19.8,chicken
+7,Cuisses de chicken jaune fermier Label Rouge CARREFOUR,"11,58",9.65,chicken
+8,Cuisses de chicken blanc fermier d'Auvergne Label Rouge CARREFOUR,"11,58",9.65,chicken
+9,Poulet blanc fermier Bio LOUE,"18,13",12.95,chicken
+10,Filet de chicken cuisson express LE GAULOIS,"5,05",15.79,chicken
+11,Cuisse canette LE GAULOIS,"8,47",11.49,chicken
+12,Sot-l'y-laisse de dinde confits LE GAULOIS,"5,79",23.16,chicken
+13,Cuisses de chicken LE GAULOIS,"3,55",7.89,chicken
+14,Aiguillettes de chicken LE PETIT MARCHE DE LOUE,"5,18",24.69,chicken
+15,Filets de chicken blanc fermier Label Rouge FILIERE QUALITE CARREFOUR,"6,93",19.8,chicken
+16,Cuisse de chicken bio jaune NATURE DE FRANCE,"9,63",16.9,chicken
+17,Escalope de chicken fine bio NATURE DE FRANCE,"8,28",33.15,chicken
+18,Cuisse de chicken bio NATURE DE FRANCE,"9,63",16.9,chicken
+19,Escalope de chicken extra fine bio NATURE DE FRANCE,"4,71",37.75,chicken
+20,Filet de chicken jaune LE GAULOIS,"9,85",13.68,chicken
+21,Filets de chicken blanc CARREFOUR CLASSIC',"4,64",15.49,chicken
+22,Filets de chicken l'Extra Tendre LE GAULOIS,"4,49",16.05,chicken
+23,Cuisses de chicken jaune CARREFOUR CLASSIC',"7,49",5.17,chicken
+24,Pilons de chicken jaune CARREFOUR CLASSIC',"4,64",6.45,chicken
+25,Hauts de cuisse de chicken blanc LE GAULOIS,"7,79",5.19,chicken
+26,Escalopes de chicken LE GAULOIS,"4,26",17.79,chicken
+27,Cuisses de chicken LE PETIT MARCHE DE LOUE,"4,72",9.45,chicken
+28,Unknown,"4,75",9.15,chicken
+29,Hauts de cuisse de chicken jaune LE GAULOIS,"7,79",5.19,chicken
+0,Filet de chicken blanc LE GAULOIS,"9,85",13.68,chicken
+1,Cuisses de chicken LE GAULOIS,"7,29",4.86,chicken
+2,Poulet jaune PAC Label Rouge FERMIERS DE LOUE,"9,75",6.5,chicken
+3,FRANCE,"11,49",3.83,chicken
+4,FRANCE,"21,49",8.6,chicken
+5,Cuisses de chicken blanc CARREFOUR CLASSIC',"3,37",6.25,chicken
+6,Filet de chicken médaillons SIMPL,"4,75",11.88,chicken
+7,FRANCE,"8,44",5.63,chicken
+8,NOUVEAUTÉ,"3,35",6.7,chicken
+9,Unknown,"7,84",10.89,chicken
+10,Unknown,"6,99",13.98,chicken
+11,Cubes de filet de chicken blanc CARREFOUR CLASSIC',"7,49",14.98,chicken
+12,Aiguillettes de chicken SIMPL,"3,79",9.48,chicken
+13,NOUVEAUTÉ,"3,49",6.98,chicken
+14,Sauté de chicken LE GAULOIS,"6,99",13.98,chicken
+15,NOUVEAUTÉ,"3,49",6.98,chicken
+16,Aiguillettes de chicken fermier Bio NATURE DE FRANCE,"8,77",33.75,chicken
+17,Filets de chicken fermier bio jaune NATURE DE FRANCE,"10,76",33.65,chicken
+18,Filet de chicken bio NATURE DE FRANCE,"10,76",33.65,chicken
+19,Cuisses de chicken blanc fermier Label Rouge CARREFOUR,"4,45",9.89,chicken
+20,Unknown,"4,66",3.59,chicken
+21,Unknown,"12,75",4.25,chicken
+22,Unknown,"14,75",4.92,chicken
+23,Unknown,"14,75",4.92,chicken
+24,Unknown,"12,75",4.25,chicken
+25,Hauts de cuisses de chicken jaune VOLAILLE FRANCAISE,"11,30",5.65,chicken
+0,Filets de chicken fermier bio jaune NATURE DE FRANCE,"10,76",33.65,chicken
+1,Filet de chicken bio NATURE DE FRANCE,"10,76",33.65,chicken
+2,Cuisses de chicken blanc fermier Label Rouge CARREFOUR,"4,45",9.89,chicken
+3,Unknown,"4,66",3.59,chicken
+4,Filet de chicken médaillons SIMPL,"4,75",11.88,chicken
+5,FRANCE,"8,44",5.63,chicken
+6,NOUVEAUTÉ,"3,35",6.7,chicken
+7,Unknown,"7,84",10.89,chicken
+8,Unknown,"6,99",13.98,chicken
+9,Cubes de filet de chicken blanc CARREFOUR CLASSIC',"7,49",14.98,chicken
+10,Aiguillettes de chicken SIMPL,"3,79",9.48,chicken
+11,NOUVEAUTÉ,"3,49",6.98,chicken
+12,Sauté de chicken LE GAULOIS,"6,99",13.98,chicken
+13,NOUVEAUTÉ,"3,49",6.98,chicken
+14,Cuisses de chicken blanc CARREFOUR CLASSIC',"3,37",6.25,chicken
+15,Cuisses de chicken blanc LE GAULOIS,"6,45",6.45,chicken
+16,Cuisses de chicken jaune CARREFOUR CLASSIC',"3,12",6.25,chicken
+17,Poulet noir label rouge LOUE,"9,10",6.5,chicken
+18,Cuisse De Poulet Prête À Cuire Du Périgord - Label Rouge - Origine France,"5,95",21.25,chicken
+19,FRANCE,"31,11",31.11,chicken
+20,FRANCE,"27,12",13.56,chicken
+21,FRANCE,"13,00",11.82,chicken
+22,FRANCE,"55,98",27.99,chicken
+0,FRANCE,"24,07",20.06,chicken
+1,FRANCE,"20,35",13.57,chicken
+1,FRANCE,"2,65",2.65,apple
+2,ESPAGNE,"3,19",3.19,apple
+3,ITALIE,"3,99",3.99,apple
+4,BELGIQUE,"3,99",3.99,apple
+5,ITALIE,"1,59",3.99,apple
+6,FRANCE,"4,19",4.19,apple
+7,FRANCE,"3,29",3.29,apple
+8,FRANCE,"4,51",4.51,apple
+9,FRANCE,"4,99",4.99,apple
+10,BELGIQUE,"1,31",3.28,apple
+11,FRANCE,"2,49",2.49,apple
+12,FRANCE,"3,79",3.79,apple
+13,PORTUGAL,"2,99",2.99,apple
+14,ORIGINE C.E.E.,"3,99",3.99,apple
+15,FRANCE,"2,38",2.98,apple
+16,FRANCE,"3,59",3.59,apple
+17,FRANCE,"3,00",4.0,apple
+18,NOUVEAUTÉ,"3,19",3.19,apple
+19,ITALIE,"2,49",3.98,apple
+20,Pommes Chantecler FILIERE QUALITE CARREFOUR,"2,80",3.11,apple
+21,Pommes Reinette grise du Canada FILIERE QUALITE CARREFOUR,"2,80",3.5,apple
+0,FRANCE,"2,69",5.98,apple
+1,FRANCE,"2,65",2.65,apple
+2,ESPAGNE,"3,19",3.19,apple
+3,ITALIE,"3,99",3.99,apple
+4,BELGIQUE,"3,99",3.99,apple
+5,ITALIE,"1,59",3.99,apple
+6,FRANCE,"4,19",4.19,apple
+7,FRANCE,"3,29",3.29,apple
+8,FRANCE,"4,51",4.51,apple
+9,FRANCE,"4,99",4.99,apple
+10,BELGIQUE,"1,31",3.28,apple
+11,FRANCE,"2,49",2.49,apple
+12,FRANCE,"3,79",3.79,apple
+13,PORTUGAL,"2,99",2.99,apple
+14,ORIGINE C.E.E.,"3,99",3.99,apple
+15,FRANCE,"2,38",2.98,apple
+16,FRANCE,"3,59",3.59,apple
+17,FRANCE,"3,00",4.0,apple
+18,NOUVEAUTÉ,"3,19",3.19,apple
+19,ITALIE,"2,49",3.98,apple
+20,Pommes Chantecler FILIERE QUALITE CARREFOUR,"2,80",3.11,apple
+21,Pommes Reinette grise du Canada FILIERE QUALITE CARREFOUR,"2,80",3.5,apple
+0,FRANCE,"1,55",1.55,apple
+1,Pommes Royal Gala FILIERE QUALITE CARREFOUR,"2,80",2.8,apple
+2,Pommes bicolores PETIT PRIX,"2,85",1.9,apple
+3,Pommes Boskoop vrac FILIERE QUALITE CARREFOUR,"1,15",2.89,apple
+4,Pommes Chantecler vrac FILIERE QUALITE CARREFOUR,"2,99",2.99,apple
+5,Pommes bicolores CARREFOUR BIO,"3,79",4.33,apple
+6,FRANCE,"3,69",3.69,apple
+7,FRANCE,"3,89",3.89,apple
+8,FRANCE,"3,69",3.69,apple
+9,FRANCE,"2,89",2.89,apple
+10,FRANCE,"3,50",1.17,apple
+11,FRANCE,"2,50",1.67,apple
+12,FRANCE,"1,15",2.89,apple
+13,Pommes Golden AOP REFLETS DE FRANCE,"3,99",3.99,apple
+14,FRANCE,"2,70",1.35,apple
+15,Pommes Golden REFLETS DE FRANCE,"2,51",2.51,apple
+16,FRANCE,"3,19",3.19,apple
+17,Pommes CARREFOUR BIO,"3,10",6.2,apple
+18,FRANCE,"3,59",3.59,apple
+19,FRANCE,"3,91",3.91,apple
+20,FRANCE,"2,89",2.89,apple
+21,Pommes Canada grises vrac FILIERE QUALITE CARREFOUR,"2,79",2.79,apple
+22,Pommes Canada FILIERE QUALITE CARREFOUR,"2,31",1.54,apple
+23,FRANCE,"2,95",5.9,apple
+24,FRANCE,"3,89",3.89,apple
+25,FRANCE,"2,59",2.59,apple
+26,Pommes Golden CARREFOUR BIO,"3,91",3.91,apple
+27,FRANCE,"3,51",3.51,apple
+28,FRANCE,"3,29",3.29,apple
+29,FRANCE,"3,49",3.49,apple
+0,FRANCE,"3,29",3.29,apple
+1,Pommes Royal Gala agroécologie FILIERE QUALITE CARREFOUR,"2,99",1.99,apple
+2,FRANCE,"2,39",2.39,apple
+3,FRANCE,"4,49",4.49,apple
+4,Pommes bicolores CARREFOUR BIO,"3,29",7.31,apple
+5,FRANCE,"3,50",3.5,apple
+6,Pommes Royal Gala REFLETS DE FRANCE,"2,19",2.19,apple
+7,Pommes Golden FILIERE QUALITE CARREFOUR,"2,80",3.5,apple
+8,FRANCE,"2,21",2.6,apple
+9,FRANCE,"0,95",2.39,apple
+10,FRANCE,"2,99",1.5,apple
+11,FRANCE,"2,09",2.09,apple
+12,Pommes Canada grises vrac FILIERE QUALITE CARREFOUR,"3,09",3.09,apple
+13,Pommes Chantecler CARREFOUR BIO,"3,49",3.49,apple
+14,FRANCE,"2,89",2.89,apple
+15,FRANCE,"3,21",1.6,apple
+16,FRANCE,"4,21",4.21,apple
+17,FRANCE,"4,21",4.21,apple
+18,FRANCE,"3,29",2.19,apple
+19,FRANCE,"2,19",2.19,apple
+20,FRANCE,"3,99",2.66,apple
+21,origine UE et Hors U.E.,"2,99",2.99,apple
+22,FRANCE,"2,89",2.89,apple
+23,Pommes Fuji vrac FILIERE QUALITE CARREFOUR,"2,89",2.89,apple
+24,Pommes Elstar vrac FILIERE QUALITE CARREFOUR,"2,89",2.89,apple
+25,FRANCE,"2,50",2.5,apple
+26,ORIGINE C.E.E.,"3,29",3.29,apple
+27,FRANCE,"3,09",3.09,apple
+28,FRANCE,"2,09",2.09,apple
+29,FRANCE,"4,51",2.26,apple
+0,FRANCE,"3,49",3.49,apple
+1,FRANCE,"3,09",3.09,apple
+2,FRANCE,"2,01",1.0,apple
+3,Pommes bicolores Jonagold en conversion BRAEBURN Bio,"3,59",3.59,apple
+4,FRANCE,"2,49",2.49,apple
+5,FRANCE,"2,50",1.25,apple
+6,FRANCE,"3,39",6.78,apple
+7,FRANCE,"2,19",2.19,apple
+8,FRANCE,"4,39",4.39,apple
+9,FRANCE,"1,16",2.9,apple
+10,FRANCE,"1,19",2.99,apple
+11,Pommes Reine des Reinettes vrac FILIERE QUALITE CARREFOUR,"1,99",1.99,apple
+12,FRANCE,"2,69",2.69,apple
+13,FRANCE,"2,49",2.49,apple
+14,FRANCE,"2,98",1.49,apple
+15,FRANCE,"2,98",1.49,apple
+16,FRANCE,"3,89",3.89,apple
+17,Pommes Royal Gala vrac FILIERE QUALITE CARREFOUR,"2,69",2.69,apple
+18,FRANCE,"2,89",2.89,apple
+19,Pommes Golden vrac FILIERE QUALITE CARREFOUR,"2,49",2.49,apple
+20,FRANCE,"3,40",4.25,apple
+21,Pommes Royal Gala FILIERE QUALITE CARREFOUR,"2,99",1.99,apple
+22,Pommes Goldrush CARREFOUR BIO,"3,19",3.19,apple
+23,FRANCE,"1,35",3.39,apple
+24,FRANCE,"2,39",2.39,apple
+25,FRANCE,"3,29",3.29,apple
+26,Pommes jaunes GoldRush en conversion Bio GOLDRUSH,"2,99",2.99,apple
+27,Raisin Muscat de Ventoux AOC,"5,69",7.59,apple
+28,ORIGINE C.E.E.,"3,50",7.0,apple
+29,FRANCE,"2,99",5.99,apple
+0,ESPAGNE,"3,50",7.0,apple
+1,Raisin noir Muscat vrac FILIERE QUALITE CARREFOUR,"3,99",3.99,apple
+2,Raisin Chasselas AOP,"5,49",7.32,apple
+3,FRANCE,"2,99",5.98,apple
+4,FRANCE,"3,29",6.58,apple
+5,FRANCE,"4,99",9.98,apple
+6,ORIGINE PAYS TIERS,"3,50",7.0,apple
+7,FRANCE,"3,99",3.99,apple
+8,FRANCE,"2,99",5.99,apple
+9,Raisin Chasselas vrac AOP,"4,99",4.99,apple
+10,ITALIE,"2,99",5.98,apple
+11,FRANCE,"4,99",4.99,apple
+12,Raisin blanc Italie vrac FILIERE QUALITE CARREFOUR,"3,49",3.49,apple
+13,Raisin Chasselas AOP REFLETS DE FRANCE,"5,49",7.32,apple
+14,AFRIQUE DU SUD,"3,50",7.0,apple
+15,ORIGINE C.E.E.,"3,15",6.3,apple
+16,FRANCE,"5,59",7.45,apple
+17,Raisin muscat de Provence REFLETS DE FRANCE,"5,69",7.59,apple
+18,ORIGINE PAYS TIERS,"2,50",5.0,apple
+19,ORIGINE C.E.E.,"3,99",7.98,apple
+20,ITALIE,"2,54",5.09,apple
+21,Raisin blanc sans pesticide CARREFOUR,"3,50",7.0,apple
+22,Raisin mixte sans pesticide CARREFOUR,"3,50",7.0,apple
+23,Raisin noir sans pesticide CARREFOUR,"3,50",7.0,apple
+24,Raisin rose sans pesticide CARREFOUR,"3,50",7.0,apple
+25,PEROU,"3,00",6.0,apple
+26,UE ET HORS U.E.,"3,50",7.0,apple
+27,ESPAGNE,"3,00",6.0,apple
+28,ORIGINE C.E.E.,"3,99",7.98,apple
+0,PEROU,"3,00",6.0,apple
+1,UE ET HORS U.E.,"3,50",7.0,apple
+2,ESPAGNE,"3,00",6.0,apple
+0,Pavés de saumon CARREFOUR BIO,"7,40",29.6,salmon
+1,Pavé de saumon ASC FILIERE QUALITE CARREFOUR,"4,05",28.99,salmon
+2,Filets de saumon sauvage salé DELPIERRE,"8,99",37.46,salmon
+3,Poêlée de saumon sans peau s/arêtes CARREFOUR LE MARCHE,"17,69",17.69,salmon
+4,Cœur de saumon sans peau sans arêtes FILIERE QUALITE CARREFOUR,"9,49",37.99,salmon
+5,Saumon mi-cuit aux épices Thaï MOWI,"9,99",45.41,salmon
+6,Filet de saumon ASC FILIERE QUALITE CARREFOUR,"26,38",21.99,salmon
+7,Cœur de saumon ASC FILIERE QUALITE CARREFOUR,"8,99",44.99,salmon
+8,Emincés de saumon à l'aneth CARREFOUR LE MARCHE,"6,69",55.75,salmon
+9,Saumon fumé thym et citron MOWI,"9,99",45.41,salmon
+10,Pavé de saumon bio avec peau s/arêtes CARREFOUR BIO,"5,69",45.52,salmon
+11,NORVÈGE,"8,69",28.99,salmon
+12,Filet de saumon ASC CARREFOUR,"13,79",27.58,salmon
+13,Pavés de saumon avec peau s/arête SIMPL,"5,89",26.77,salmon
+14,Darne de saumon ASC FILIERE QUALITE CARREFOUR,"5,99",29.99,salmon
+15,Darnes de saumon Label rouge LES ENTREES DE LA MER,"6,95",49.64,salmon
+16,ROYAUME-UNI,"8,99",35.96,salmon
+17,Pavé de saumon avec peau s/arêtes CARREFOUR LE MARCHE,"3,79",31.58,salmon
+18,Pavés de saumon avec peau s/arêtes CARREFOUR LE MARCHE,"13,79",28.73,salmon
+19,Pavés de saumon avec peau s/arêtes CARREFOUR LE MARCHE,"6,99",29.12,salmon
+20,Saumon fumé de Norvège LABEYRIE,"6,79",48.5,salmon
+21,Saumon fumé SIMPL,"4,95",24.75,salmon
+22,Saumon fumé Norvège CARREFOUR EXTRA,"6,39",45.64,salmon
+23,FRANCE,"5,31",37.99,salmon
+24,Emincés de saumon sans arêtes FILIERE QUALITE CARREFOUR,"7,79",51.93,salmon
+25,Saumon fumé à cuisiner CARREFOUR,"5,19",28.83,salmon
+26,Saumon fumé Le Norvège LABEYRIE,"4,75",63.33,salmon
+27,Saumon fumé Le Norvège LABEYRIE,"10,43",48.51,salmon
+28,Saumon fumé sauvage d'Alaska LABEYRIE,"9,05",75.42,salmon
+29,Saumon fumé Highlands d'Ecosse LABEYRIE,"8,75",72.92,salmon
+0,Pavés de saumon CARREFOUR BIO,"7,40",29.6,salmon
+1,Pavé de saumon ASC FILIERE QUALITE CARREFOUR,"4,05",28.99,salmon
+2,Filets de saumon sauvage salé DELPIERRE,"8,99",37.46,salmon
+3,Poêlée de saumon sans peau s/arêtes CARREFOUR LE MARCHE,"17,69",17.69,salmon
+4,Cœur de saumon sans peau sans arêtes FILIERE QUALITE CARREFOUR,"9,49",37.99,salmon
+5,Saumon mi-cuit aux épices Thaï MOWI,"9,99",45.41,salmon
+6,Filet de saumon ASC FILIERE QUALITE CARREFOUR,"26,38",21.99,salmon
+7,Cœur de saumon ASC FILIERE QUALITE CARREFOUR,"8,99",44.99,salmon
+8,Emincés de saumon à l'aneth CARREFOUR LE MARCHE,"6,69",55.75,salmon
+9,Saumon fumé thym et citron MOWI,"9,99",45.41,salmon
+10,Pavé de saumon bio avec peau s/arêtes CARREFOUR BIO,"5,69",45.52,salmon
+11,NORVÈGE,"8,69",28.99,salmon
+12,Filet de saumon ASC CARREFOUR,"13,79",27.58,salmon
+13,Pavés de saumon avec peau s/arête SIMPL,"5,89",26.77,salmon
+14,Darne de saumon ASC FILIERE QUALITE CARREFOUR,"5,99",29.99,salmon
+15,Darnes de saumon Label rouge LES ENTREES DE LA MER,"6,95",49.64,salmon
+16,ROYAUME-UNI,"8,99",35.96,salmon
+17,Pavé de saumon avec peau s/arêtes CARREFOUR LE MARCHE,"3,79",31.58,salmon
+18,Pavés de saumon avec peau s/arêtes CARREFOUR LE MARCHE,"13,79",28.73,salmon
+19,Pavés de saumon avec peau s/arêtes CARREFOUR LE MARCHE,"6,99",29.12,salmon
+20,Saumon fumé de Norvège LABEYRIE,"6,79",48.5,salmon
+21,Saumon fumé SIMPL,"4,95",24.75,salmon
+22,Saumon fumé Norvège CARREFOUR EXTRA,"6,39",45.64,salmon
+23,FRANCE,"5,31",37.99,salmon
+24,Emincés de saumon sans arêtes FILIERE QUALITE CARREFOUR,"7,79",51.93,salmon
+25,Saumon fumé à cuisiner CARREFOUR,"5,19",28.83,salmon
+26,Saumon fumé Le Norvège LABEYRIE,"4,75",63.33,salmon
+27,Saumon fumé Le Norvège LABEYRIE,"10,43",48.51,salmon
+28,Saumon fumé sauvage d'Alaska LABEYRIE,"9,05",75.42,salmon
+29,Saumon fumé Highlands d'Ecosse LABEYRIE,"8,75",72.92,salmon
+0,Saumon fumé émincés sésame et pavot CARREFOUR SELECTION,"4,99",49.9,salmon
+1,Saumon fumé émincés 5 baies CARREFOUR SELECTION,"4,99",49.9,salmon
+2,Saumon fumé d'Ecosse LABEYRIE,"8,89",68.38,salmon
+3,Saumon fumé l'Ecosse LABEYRIE,"5,79",77.2,salmon
+4,Saumon fumé l'Ecosse LABEYRIE,"12,09",60.45,salmon
+5,Saumon fumé Le Norvège réduit en sel LABEYRIE,"8,35",64.23,salmon
+6,Saumon fumé Cercle Polaire Norvégien LABEYRIE,"8,65",66.54,salmon
+7,Saumon fumé bio LABEYRIE,"13,15",73.06,salmon
+8,Saumon fumé sauvage du Pacifique LABEYRIE,"12,29",68.28,salmon
+9,Saumon fumé émincés aneth citron CARREFOUR SELECTION,"4,99",49.9,salmon
+10,Saumon fumé bio CARREFOUR BIO,"7,29",52.07,salmon
+11,Saumon fumé bio LABEYRIE,"5,65",86.92,salmon
+12,Saumon fumé émincés CARREFOUR BIO,"5,99",59.9,salmon
+13,Saumon fumé CARREFOUR BIO,"5,15",64.38,salmon
+14,Lardons de saumon fumé CARREFOUR BIO,"3,99",44.33,salmon
+15,Saumon fumé sauvage Pacifique CARREFOUR,"8,25",68.75,salmon
+16,Saumon fumé Norvège CARREFOUR EXTRA,"12,25",40.83,salmon
+17,Unknown,"9,49",45.19,salmon
+18,Saumon fumé Ecosse CARREFOUR EXTRA,"7,29",52.07,salmon
+19,Saumon fumé Ecosse CARREFOUR,"4,89",69.86,salmon
+20,Saumon fumé Atlantique Bio MAISON PENEAU,"5,85",58.5,salmon
+21,Saumon fumé Ecosse CARREFOUR EXTRA,"14,25",47.5,salmon
+22,Saumon fumé Norvège CARREFOUR EXTRA,"17,79",39.53,salmon
+23,Saumon fumé bio émincés au pavot CARREFOUR BIO,"6,75",67.5,salmon
+24,Saumon fumé sauvage DELPIERRE,"7,59",69.0,salmon
+25,Saumon fumé Norvège DELPIERRE,"7,39",56.85,salmon
+26,Saumon fumé Ecosse LR CARREFOUR SELECTION,"5,99",74.88,salmon
+27,Saumon fumé de Norvège FILIERE QUALITE CARREFOUR,"4,35",62.14,salmon
+28,Saumon fumé Ecosse CARREFOUR EXTRA,"9,99",47.57,salmon
+29,Saumon fumé rouge sauvage du Pacifique CARREFOUR EXTRA,"12,95",68.16,salmon
+0,Saumon fumé Ecosse DELPIERRE,"7,79",64.92,salmon
+1,Unknown,"5,65",70.62,salmon
+2,Saumon fumé Atlantique LR CARREFOUR SELECTION,"14,95",62.29,salmon
+3,FRANCE,"13,79",91.93,salmon
+4,Saumon fumé d'Ecosse WILLIAM & JAMES,"7,65",76.5,salmon
+5,Saumon fumé bio DELPEYRAT,"8,75",72.92,salmon
+6,Saumon fumé au bois de pommier WILLIAM & JAMES,"7,99",79.9,salmon
+7,FRANCE,"4,49",4.49,salmon
+8,FRANCE,"5,00",5.0,salmon
+9,Lardons de saumon fumé CARREFOUR EXTRA,"3,75",41.67,salmon
+10,Unknown,"10,45",69.67,salmon
+11,Saumon fumé sauvage du Pacifique LABEYRIE,"8,69",79.0,salmon
+12,Saumon fumé Bio LABEYRIE,"8,75",79.55,salmon
+13,Saumon fumé le Norvège LABEYRIE,"7,76",48.5,salmon
+14,Saumon fumé Ecosse CARREFOUR CLASSIC',"6,45",35.83,salmon
+15,Unknown,"3,49",34.9,salmon
+16,Saumon fumé Norvège CARREFOUR CLASSIC',"5,99",29.95,salmon
+17,Saumon fumé le boisé d'Ecosse LABEYRIE,"8,35",55.67,salmon
+18,Saumon fumé tranchettes CARREFOUR BIO,"5,99",49.92,salmon
+19,Saumon fumé Atlantique de Norvège LABEYRIE,"8,35",55.67,salmon
+20,Saumon fumé Bio atlantique LABEYRIE,"8,35",64.23,salmon
+21,Saumon fumé sauvage du pacifique LABEYRIE,"7,76",59.69,salmon
+22,Saumon fumé bio cœur de filet CARREFOUR BIO,"7,99",66.58,salmon
+23,Unknown,"3,29",21.93,salmon
+24,NOUVEAUTÉ,"7,99",72.64,salmon
+25,NOUVEAUTÉ,"8,49",70.75,salmon
+26,Saumon fumé au bois de hêtre LA SAUMONERIE DE CHOISY,"10,85",72.33,salmon
+27,Saumon fumé du cercle arctique MAISON PENEAU,"4,85",60.62,salmon
+28,Carpaccio de saumon façon gravlax CARREFOUR LE MARCHE,"6,69",43.16,salmon
+0,Saumon fumé bio d'Irlande WILLIAM & JAMES,"8,39",83.9,salmon
+1,NOUVEAUTÉ,"4,15",33.2,salmon
+2,NOUVEAUTÉ,"4,15",33.2,salmon
+3,Carpaccio de saumon nature CARREFOUR LE MARCHE,"7,29",60.75,salmon
+4,Terrine au saumon et saumon fumé GUYADER,"3,50",29.17,salmon
+5,Coquille au saumon CARREFOUR,"3,20",3.2,salmon
+6,Tartare de saumon asperges vertes et câpres CARREFOUR,"7,99",49.94,salmon
+7,Tartare de saumon citron et aneth CARREFOUR LE MARCHE,"6,49",46.36,salmon
+8,Maki saumon SUSHI DAILY,"4,75",32.76,salmon
+9,Verde saumon SUSHI DAILY,"8,20",54.67,salmon
+10,Chirashi saumon SUSHI DAILY,"12,95",56.3,salmon
+11,Roll'in saumon cheese SUSHI DAILY,"7,50",55.56,salmon
+12,Menu duo saumon SUSHI DAILY,"17,95",41.17,salmon
+13,Spicy Roll saumon SUSHI DAILY,"8,50",28.33,salmon
+14,Tarama au saumon CARREFOUR,"1,59",15.9,salmon
+15,Sushi saumon IZAKAYA,"8,50",8.5,salmon
+16,California saumon IZAKAYA,"5,50",5.5,salmon
+17,Sushi saumon IZAKAYA,"13,90",13.9,salmon
+18,Rillettes de saumon CARREFOUR EXTRA,"2,49",16.6,salmon
+19,Sushi saumon SUSHI DAILY,"9,50",58.28,salmon
+20,Sashimi saumon SUSHI DAILY,"10,95",70.19,salmon
+21,Tartare de saumon SUSHI DAILY,"12,50",33.88,salmon
+22,Verde saumon SUSHI DAILY,"7,20",28.46,salmon
+23,Chirashi saumon SUSHI DAILY,"12,50",37.76,salmon
+24,Roll saumon crunch SUSHI DAILY,"8,75",41.67,salmon
+25,Verde maki saumon SUSHI DAILY,"5,95",41.03,salmon
+26,Maxi box saumon IZAKAYA,"13,90",13.9,salmon
+27,Izakaya saumon IZAKAYA,"13,90",44.84,salmon
+28,Menu duo saumon SUSHI DAILY,"17,95",41.17,salmon
+29,Coquilles au saumon CARREFOUR,"6,30",21.0,salmon
+0,NORVÈGE,"6,79",22.63,salmon
+1,Roll saumon spicy SUSHI DAILY,"8,20",43.16,salmon
+2,Roll'in saumon cheese SUSHI DAILY,"6,95",51.48,salmon
+3,Sushi saumon L SUSHI DAILY,"14,95",51.91,salmon
+4,Cône au saumon CARREFOUR,"2,40",2.4,salmon
+5,Sauce pour saumon aneth LABEYRIE,"1,99",19.9,salmon
+6,Saumon d'Ecosse farci CARREFOUR,"2,09",29.9,salmon
+7,NOUVEAUTÉ,"3,29",10.97,salmon
+8,Escalopes de saumon panées CARREFOUR LE MARCHE,"4,00",20.0,salmon
+9,Paupiette au saumon à la Normande CARREFOUR,"3,45",17.25,salmon
+10,Croques saumon MAISON BRIAU,"6,99",17.48,salmon
+11,Paté en croute de saumon farçi CARREFOUR,"2,83",18.9,salmon
+12,Poke Bowl saumon sauce sésame SUSHI DAILY,"10,95",27.57,salmon
+13,Haché au saumon à la ciboulette CARREFOUR CLASSIC',"1,99",9.95,salmon
+14,Sushi au saumon SUSHIMAN,"8,79",45.08,salmon
+15,Rôti farci saumon et St-Jacques CARREFOUR LE MARCHE,"13,99",31.09,salmon
+16,Sushi Sashimi saumon SUSHI DAILY,"11,20",56.0,salmon
+17,Terrine saumon à l'aneth CARREFOUR LE MARCHE,"3,99",26.6,salmon
+18,Sushi Crunch saumon Roll SUSHI DAILY,"8,95",42.62,salmon
+19,Sushi saumon SUSHI DAILY,"9,50",56.89,salmon
+20,Spécialité fromagère saumon & tartare CAP OCEAN,"2,79",19.93,salmon
+21,Tartare de saumon SUSHI DAILY,"12,95",43.17,salmon
+22,Sushi Verde Maki saumon SUSHI DAILY,"6,50",29.55,salmon
+23,Mini poke bowl au saumon SUSHI DAILY,"5,20",32.5,salmon
+24,California saumon enroulés d'oignons frits sauce épicée IZAKAYA,"7,50",7.5,salmon
+25,Tartinable au saumon et au fromage fouetté MME LOIK GUYADER,"3,59",29.92,salmon
+26,Poke bowl saumon sauce sésame SUSHI DAILY,"10,95",27.58,salmon
+27,Maki saumon avocat california SUSHIMAN,"5,99",42.79,salmon
+0,Verrine saumon fumé fromage ciboulette CARREFOUR,"2,09",2.09,salmon
+1,NOUVEAUTÉ,"2,99",21.36,salmon
+2,Terrine au saumon et au saumon fumé CARREFOUR,"1,20",1.2,salmon
+3,Rillettes de saumon CARREFOUR BIO,"2,99",24.92,salmon
+4,Terrine saumon et saumon fumé CARREFOUR EXTRA,"2,49",20.75,salmon
+5,Maki saumon IZAKAYA,"4,20",4.2,salmon
+6,Maki au saumon SUSHIMAN,"4,59",54.64,salmon
+7,Happy salmon HAPPY TOKYO,"11,75",42.27,salmon
+8,Chirashi saumon HAPPY TOKYO,"11,20",40.43,salmon
+9,Crunch saumon HAPPY TOKYO,"7,95",37.5,salmon
+10,Maki saumon HAPPY TOKYO,"4,20",37.17,salmon
+11,Sushi saumon HAPPY TOKYO,"8,20",46.59,salmon
+12,Sushi saumon HAPPY TOKYO,"4,50",51.14,salmon
+13,Verrine saumon/wasabi CARREFOUR,"2,60",2.6,salmon
+14,Poke bowl saumon HAPPY TOKYO,"9,95",29.01,salmon
+15,Futomaki saumon fromage HAPPY TOKYO,"4,95",29.46,salmon
+16,Roll saumon fromage HAPPY TOKYO,"6,20",31.47,salmon
+17,Sushi et maki saumon + sauce IZAKAYA,"11,90",11.9,salmon
+18,California saumon et mali mixte IZAKAYA,"13,50",13.5,salmon
+19,Roll saumon fromage + sauce IZAKAYA,"7,50",7.5,salmon
+20,Maki california saumon avocat HAPPY TOKYO,"4,75",33.45,salmon
+21,Verrines tartare de saumon tzatziki CARREFOUR LE MARCHE,"5,99",42.79,salmon
+22,Verrines tartare de saumon tomate basilic CARREFOUR LE MARCHE,"5,99",42.79,salmon
+0,RUSSIE,"10,50",210.0,salmon
+1,FRANCE,"7,39",82.11,salmon
+0,FRANCE,"0,99",6.6,salad
+1,FRANCE,"1,00",6.25,salad
+2,FRANCE,"1,29",10.32,salad
+3,ESPAGNE,"0,99",0.99,salad
+4,FRANCE,"0,99",4.95,salad
+5,FRANCE,"1,09",1.09,salad
+6,FRANCE,"1,09",1.09,salad
+7,FRANCE,"1,09",1.09,salad
+8,FRANCE,"1,09",1.09,salad
+9,ITALIE,"1,20",9.6,salad
+0,FRANCE,"1,99",1.99,salad
+1,ESPAGNE,"0,99",0.99,salad
+2,FRANCE,"3,39",3.39,salad
+3,BELGIQUE,"0,99",4.95,salad
+4,FRANCE,"2,79",2.79,salad
+5,UNION EUROPEENNE,"0,99",7.92,salad
+6,FRANCE,"0,99",7.92,salad
+7,ESPAGNE,"3,09",3.09,salad
+8,FRANCE,"1,29",10.32,salad
+9,FRANCE,"1,20",9.6,salad
+10,FRANCE,"1,99",1.99,salad
+11,ORIGINE C.E.E.,"1,99",1.99,salad
+12,ORIGINE C.E.E.,"2,99",8.54,salad
+13,FRANCE,"2,19",21.9,salad
+14,FRANCE,"0,99",6.6,salad
+15,FRANCE,"0,99",0.99,salad
+16,FRANCE,"2,19",21.9,salad
+17,ORIGINE C.E.E.,"0,99",0.99,salad
+18,FRANCE,"3,09",3.09,salad
+19,FRANCE,"0,99",0.99,salad
+0,FRANCE,"1,29",1.29,salad
+1,Endives spéciale salade PERLE DU NORD,"3,19",5.32,salad
+2,Batavia SIMPL,"0,99",7.92,salad
+3,Graines mélange pour salade DACO BELLO,"2,40",19.2,salad
+4,ESPAGNE,"2,49",16.6,salad
+0,FRANCE,"1,99",1.99,tomatoes
+1,MAROC,"0,99",3.96,tomatoes
+2,FRANCE,"2,50",6.25,tomatoes
+3,FRANCE,"0,74",2.99,tomatoes
+4,FRANCE,"2,99",2.99,tomatoes
+5,MAROC,"2,99",2.99,tomatoes
+6,FRANCE,"3,00",6.0,tomatoes
+7,FRANCE,"0,74",2.99,tomatoes
+8,FRANCE,"3,00",8.57,tomatoes
+9,Tomates rondes en grappe Bio CARREFOUR,"3,29",5.48,tomatoes
+10,Tomate cerise Bio CARREFOUR BIO,"2,59",12.95,tomatoes
+11,Tomate ronde en grappe Bio CARREFOUR BIO,"3,69",6.15,tomatoes
+12,FRANCE,"0,99",3.96,tomatoes
+13,FRANCE,"3,00",10.0,tomatoes
+14,MAROC,"2,50",6.25,tomatoes
+15,ESPAGNE,"1,50",7.5,tomatoes
+16,MAROC,"3,99",15.96,tomatoes
+17,FRANCE,"3,00",10.0,tomatoes
+18,FRANCE,"2,51",5.02,tomatoes
+19,ESPAGNE,"2,99",5.98,tomatoes
+20,FRANCE,"4,59",4.59,tomatoes
+21,FRANCE,"5,99",5.99,tomatoes
+22,UE ET HORS U.E.,"3,50",11.67,tomatoes
+23,FRANCE,"0,92",3.69,tomatoes
+24,FRANCE,"7,19",7.19,tomatoes
+25,ORIGINE PAYS TIERS,"5,99",5.99,tomatoes
+26,ESPAGNE,"1,50",7.5,tomatoes
+27,FRANCE,"2,69",10.76,tomatoes
+28,FRANCE,"3,49",13.96,tomatoes
+29,FRANCE,"2,00",10.0,tomatoes
+0,FRANCE,"1,99",1.99,tomatoes
+1,MAROC,"0,99",3.96,tomatoes
+2,FRANCE,"2,50",6.25,tomatoes
+3,FRANCE,"0,74",2.99,tomatoes
+4,FRANCE,"2,99",2.99,tomatoes
+5,MAROC,"2,99",2.99,tomatoes
+6,FRANCE,"3,00",6.0,tomatoes
+7,FRANCE,"0,74",2.99,tomatoes
+8,FRANCE,"3,00",8.57,tomatoes
+9,Tomates rondes en grappe Bio CARREFOUR,"3,29",5.48,tomatoes
+10,Tomate cerise Bio CARREFOUR BIO,"2,59",12.95,tomatoes
+11,Tomate ronde en grappe Bio CARREFOUR BIO,"3,69",6.15,tomatoes
+12,FRANCE,"0,99",3.96,tomatoes
+13,FRANCE,"3,00",10.0,tomatoes
+14,MAROC,"2,50",6.25,tomatoes
+15,ESPAGNE,"1,50",7.5,tomatoes
+16,MAROC,"3,99",15.96,tomatoes
+17,FRANCE,"3,00",10.0,tomatoes
+18,FRANCE,"2,51",5.02,tomatoes
+19,ESPAGNE,"2,99",5.98,tomatoes
+20,FRANCE,"4,59",4.59,tomatoes
+21,FRANCE,"5,99",5.99,tomatoes
+22,UE ET HORS U.E.,"3,50",11.67,tomatoes
+23,FRANCE,"0,92",3.69,tomatoes
+24,FRANCE,"7,19",7.19,tomatoes
+25,ORIGINE PAYS TIERS,"5,99",5.99,tomatoes
+26,ESPAGNE,"1,50",7.5,tomatoes
+27,FRANCE,"2,69",10.76,tomatoes
+28,FRANCE,"3,49",13.96,tomatoes
+29,FRANCE,"2,00",10.0,tomatoes
+0,FRANCE,"2,59",12.95,tomatoes
+1,FRANCE,"5,99",5.99,tomatoes
+2,FRANCE,"5,99",5.99,tomatoes
+3,FRANCE,"2,99",2.99,tomatoes
+4,FRANCE,"2,99",2.99,tomatoes
+5,FRANCE,"2,99",2.99,tomatoes
+6,FRANCE,"6,09",8.12,tomatoes
+7,FRANCE,"2,50",5.0,tomatoes
+8,Tomates rondes PETIT PRIX,"3,29",3.29,tomatoes
+9,FRANCE,"2,50",7.14,tomatoes
+10,FRANCE,"4,59",4.59,tomatoes
+11,FRANCE,"2,00",5.71,tomatoes
+12,ORIGINE PAYS TIERS,"2,90",5.8,tomatoes
+13,FRANCE,"1,60",6.4,tomatoes
+14,FRANCE,"2,50",6.25,tomatoes
+15,FRANCE,"3,00",8.57,tomatoes
+16,FRANCE,"2,49",4.99,tomatoes
+17,Tomates rondes bio CARREFOUR BIO,"3,51",3.51,tomatoes
+18,Tomate SIMPL,"3,49",3.49,tomatoes
+19,FRANCE,"5,59",5.59,tomatoes
+20,MAROC,"1,50",3.75,tomatoes
+21,ORIGINE PAYS TIERS,"1,50",6.0,tomatoes
+22,ESPAGNE,"2,00",8.0,tomatoes
+23,ORIGINE PAYS TIERS,"5,99",5.99,tomatoes
+24,FRANCE,"1,54",6.19,tomatoes
+25,FRANCE,"7,01",7.01,tomatoes
+26,FRANCE,"2,39",9.56,tomatoes
+27,FRANCE,"5,59",5.59,tomatoes
+28,FRANCE,"5,59",5.59,tomatoes
+29,FRANCE,"5,59",5.59,tomatoes
+0,FRANCE,"2,50",12.5,tomatoes
+1,Tomates mélangées Bio GRAINES DE PAYSANS,"12,00",6.0,tomatoes
+2,Tomates allongées coeur FILIERE QUALITE CARREFOUR,"3,69",6.15,tomatoes
+3,Tomates cocktail en grappe Bio COCKTAIL EN GRAPPE,"2,50",6.25,tomatoes
+4,FRANCE,"2,99",5.99,tomatoes
+5,MAROC,"0,99",4.95,tomatoes
+6,FRANCE,"6,99",6.99,tomatoes
+7,Mélange de tomates anciennes agroécologie REFLETS DE FRANCE,"4,69",4.69,tomatoes
+8,Tomates séchées Bio CARREFOUR BIO,"3,39",33.9,tomatoes
+9,Tomates cerise confites à l'origan ENSOLEIL'ADE,"3,35",26.8,tomatoes
+10,NOUVEAUTÉ,"4,49",4.49,tomatoes
+11,Tapena préparation à base de tomates mi-séchées LES ENSOLEIL'ADES,"3,10",20.67,tomatoes
+12,NOUVEAUTÉ,"4,45",4.45,tomatoes
+13,Mélange mix graines et tomates SEEBERGER,"3,45",27.6,tomatoes
+14,Tomates Déshydratées À L'huile - Pot 230g,"9,39",40.83,tomatoes
+0,Carottes vrac FILIERE QUALITE CARREFOUR,"2,49",2.49,carrots
+1,Carottes Bio CARREFOUR BIO,"2,99",2.99,carrots
+2,Carottes agroécologie FILIERE QUALITE CARREFOUR,"2,29",2.29,carrots
+3,Carottes PETIT PRIX,"3,69",1.84,carrots
+4,Carottes CARREFOUR,"1,99",1.99,carrots
+5,Carottes PLANETE VEGETAL,"0,99",1.98,carrots
+6,FRANCE,"2,49",2.49,carrots
+7,FRANCE,"2,99",2.99,carrots
+8,FRANCE,"2,49",2.49,carrots
+9,Carottes des sables REFLETS DE FRANCE,"1,69",1.69,carrots
+10,FRANCE,"2,79",2.79,carrots
+11,Carottes en sachet FILIERE QUALITE CARREFOUR,"4,29",1.43,carrots
+12,Carottes CARREFOUR,"1,19",1.19,carrots
+13,FRANCE,"2,19",2.19,carrots
+14,FRANCE,"2,55",2.55,carrots
+15,ORIGINE C.E.E.,"0,99",1.98,carrots
+16,FRANCE,"0,99",0.66,carrots
+17,FRANCE,"3,69",2.46,carrots
+18,FRANCE,"6,10",1.22,carrots
+19,FRANCE,"1,29",1.72,carrots
+20,Carottes Filière Qualité Carrefour Agroécologie CARREFOUR LE MARCHE,"2,79",1.86,carrots
+21,FRANCE,"2,59",2.59,carrots
+22,ORIGINE PAYS TIERS,"3,01",3.01,carrots
+23,FRANCE,"3,09",3.09,carrots
+24,Carottes Baby prêtes à croquer FLORETTE,"2,15",8.6,carrots
+25,Carottes Baby prêtes à croquer FLORETTE,"3,39",7.53,carrots
+26,Carottes râpées FLORETTE,"1,75",7.0,carrots
+27,Carottes en rondelles LUNOR,"1,55",3.1,carrots
+28,Carottes râpées CARREFOUR LE MARCHE,"2,00",5.71,carrots
+29,Carottes râpées CARREFOUR LE MARCHE,"1,00",6.25,carrots
+0,Carottes vrac FILIERE QUALITE CARREFOUR,"2,49",2.49,carrots
+1,Carottes Bio CARREFOUR BIO,"2,99",2.99,carrots
+2,Carottes agroécologie FILIERE QUALITE CARREFOUR,"2,29",2.29,carrots
+3,Carottes PETIT PRIX,"3,69",1.84,carrots
+4,Carottes CARREFOUR,"1,99",1.99,carrots
+5,Carottes PLANETE VEGETAL,"0,99",1.98,carrots
+6,FRANCE,"2,49",2.49,carrots
+7,FRANCE,"2,99",2.99,carrots
+8,FRANCE,"2,49",2.49,carrots
+9,Carottes des sables REFLETS DE FRANCE,"1,69",1.69,carrots
+10,FRANCE,"2,79",2.79,carrots
+11,Carottes en sachet FILIERE QUALITE CARREFOUR,"4,29",1.43,carrots
+12,Carottes CARREFOUR,"1,19",1.19,carrots
+13,FRANCE,"2,19",2.19,carrots
+14,FRANCE,"2,55",2.55,carrots
+15,ORIGINE C.E.E.,"0,99",1.98,carrots
+16,FRANCE,"0,99",0.66,carrots
+17,FRANCE,"3,69",2.46,carrots
+18,FRANCE,"6,10",1.22,carrots
+19,FRANCE,"1,29",1.72,carrots
+20,Carottes Filière Qualité Carrefour Agroécologie CARREFOUR LE MARCHE,"2,79",1.86,carrots
+21,FRANCE,"2,59",2.59,carrots
+22,ORIGINE PAYS TIERS,"3,01",3.01,carrots
+23,FRANCE,"3,09",3.09,carrots
+24,Carottes Baby prêtes à croquer FLORETTE,"2,15",8.6,carrots
+25,Carottes Baby prêtes à croquer FLORETTE,"3,39",7.53,carrots
+26,Carottes râpées FLORETTE,"1,75",7.0,carrots
+27,Carottes en rondelles LUNOR,"1,55",3.1,carrots
+28,Carottes râpées CARREFOUR LE MARCHE,"2,00",5.71,carrots
+29,Carottes râpées CARREFOUR LE MARCHE,"1,00",6.25,carrots
+0,Carottes nantaises Bio FLORETTE,"1,75",10.94,carrots
+1,Carottes Baby sauce ciboulette LA FERME A JULES,"2,50",12.5,carrots
+2,Carottes et betteraves rapées FLORETTE,"1,85",10.28,carrots
+3,Purée fraîche de carottes CREALINE,"3,15",7.88,carrots
+4,Purée fraîche pommes de terre carottes CREALINE,"3,15",7.88,carrots
+5,Mélange de crudités chou radis carottes FLORETTE,"2,10",11.67,carrots
+6,Duo de bâtonnets concombres carottes LES CRUDETTES,"3,49",11.63,carrots
+7,Mélange carotte chou blanc betterave FLORETTE,"1,75",9.72,carrots
+8,Jus orange et carotte INNOCENT,"3,59",3.99,carrots
