@@ -24,9 +24,9 @@ id,name,measure_unit,price,category2,subcategory,datetime,country
 2219100100106,JP Aomori 100 apple juice,6,1194.0,Apple,Gift Boxes,2023-06-05,Taiwan
 2219104500106,JP Aomori Apple Carrot Juice,6,1380.0,Apple,Gift Boxes,2023-06-05,Taiwan
 2221206800101,Pineapple Jelly,1,1388.0,Apple,一起買水果,2023-06-05,Taiwan
-2432000700101,Chicken Breast Skin Packing 300g,1,90.0,Chicken Breast,Chicken,2023-06-05,Taiwan
-2432002400101,Chicken Breast Slices,1,105.0,Chicken Breast,Chicken,2023-06-05,Taiwan
-2432000200101,HOLSEM-Chicken Breasts,1,170.0,Chicken Breast,Chicken,2023-06-05,Taiwan
+2432000700101,chicken Skin Packing 300g,1,90.0,chicken,Chicken,2023-06-05,Taiwan
+2432002400101,chicken Slices,1,105.0,chicken,Chicken,2023-06-05,Taiwan
+2432000200101,HOLSEM-chickens,1,170.0,chicken,Chicken,2023-06-05,Taiwan
 2110305100101,Salmon Trout,1,265.0,Salmon,Seafood products,2023-06-05,Taiwan
 2110316700101,Salted Salmon,1,179.0,Salmon,Seafood products,2023-06-05,Taiwan
 2110310000101,Salmon Tataki with lemon  pepper,1,409.0,Salmon,Seafood products,2023-06-05,Taiwan
